@@ -74,6 +74,11 @@ function fact()
     screen.value=f;
 }
 
+function ac()
+{
+    screen.value="";
+}
+
 function backspc()
 {
     screen.value=screen.value.substr(0,screen.value.length-1);
