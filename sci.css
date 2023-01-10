@@ -18,7 +18,7 @@ body{
 }
 
 .container{
-    background-color: #0d0105;
+    background-color: #413d3f;
     height: 500px; 
     width: 550px;
     display: grid;
@@ -34,7 +34,7 @@ body{
     margin:rgb(66, 234, 10);
     padding: 20px;
     height: 50px; 
-    width: 50px;
+    width: 56px;
     border-radius: 20px;
     cursor: pointer;
     margin-left: 15px;
@@ -43,7 +43,6 @@ body{
     font-style:normal;
     border-color: #f7f7f7;
     text-align: center;
-    
 } 
 
  #screen{
