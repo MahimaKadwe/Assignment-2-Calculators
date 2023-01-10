@@ -96,6 +96,23 @@ body{
     text-align: center;
     justify-content: center;
 }
+
+#fun{
+    background-color:#ac8007;
+    margin:rgb(66, 234, 10);
+    padding: 20px;
+    height: 50px; 
+    width: 56px;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 15px;
+    margin-top: 15px;
+    font-size: larger;
+    font-style:normal;
+    border-color: #f7f7f7;
+    text-align: center;
+    justify-content: center;
+}
  #screen{
     padding-block: 20px;
     height: 100px; 
